@@ -26,7 +26,7 @@ install the req
     download the data from
 ````bash
     https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
-    ````
+````
 
 ````bash
 git init
@@ -51,11 +51,13 @@ oneliner updates for readme
 git add . && git commit -m "update Readme.md"
 ````
 
+````bash
 git remote add origin https://github.com/dhruvthakur2000/winequality.git
 
 git branch -M main
 
 git push origin main
+````
 
 tox command -
 
